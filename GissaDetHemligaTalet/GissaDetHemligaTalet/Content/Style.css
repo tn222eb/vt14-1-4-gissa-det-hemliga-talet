@@ -1,0 +1,10 @@
+﻿.field-validation-error {
+    color: red;
+}
+
+#ValueTextBox {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    Height:16px;
+    Width: 48px;
+}
